@@ -18,3 +18,7 @@ jobs:
         run: dotnet build HouseRentingSystem.sln --configuration Release --no-restore
       - name: Run Tests
         run: dotnet test HouseRentingSystem.Tests/HouseRentingSystem.Tests.csproj
+
+
+
+        
